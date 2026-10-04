@@ -1,0 +1,13 @@
+# Local account binding, machine paths and operational evidence
+config.json
+LOCAL_NOTES.md
+verification.json
+healthcheck.json
+status.json
+state.json
+*.log
+*.log.*
+*.lock
+__pycache__/
+*.py[cod]
+.DS_Store
